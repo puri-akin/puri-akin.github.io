@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://puri-akin.github.io/sitemap/sitemap.txt
